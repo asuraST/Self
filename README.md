@@ -1,4 +1,5 @@
-- ![hello](https://giphy.com/gifs/zealandhello-zealand-hello-welcome-S8TzelADdK7md7YaKl)  Hi, I’m Archana
+- ![](https://giphy.com/gifs/hi-JApYh06rwXphS)
+- Hi, I’m Archana
 - 👀 I’m interested in coding and hacking
 
 - 📫 How to reach me arcian.su7@gmail.com
