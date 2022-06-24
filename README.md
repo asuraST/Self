@@ -1,7 +1,8 @@
 ![Hello](https://c.tenor.com/HfyIBi5IF3AAAAAM/hello.gif) 
 - Hello, I’m Archana 
-- 👀Currently, I am doing my Masters in Computer Science in UNC Charlotte with a concentration in Information Security and Privacy. 
-- Prior to my masters, I was working as a programmer in Tata Consultancy Services, India. 
+- 👀Currently, I am a Grad student in UNC Charlotte in the department of Computer Science with a concentration in Information Security and Privacy. 
+- I am working towards my Security+ Certification (MY First cert in this AREA!) :P
+
 
 
 <!---
