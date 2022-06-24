@@ -1,7 +1,7 @@
 ![Hello](https://c.tenor.com/HfyIBi5IF3AAAAAM/hello.gif) 
 - Hello, I’m Archana 
 - 👀Currently, I am a Grad student in UNC Charlotte in the department of Computer Science with a concentration in Information Security and Privacy. 
-- I am working towards my Security+ Certification (MY First cert in this AREA!) :P
+- I am working towards my Security+ Certification (MY First cert in this AREA!) :satisfied:
 
 
 
